@@ -6,7 +6,7 @@
   "require"  : {
     "php" : ">=5.3.3",
     "doctrine/doctrine-orm-module" : "=0.8.0",
-    "TomHAnderson/zf-oauth2-doctrine"  : "1.0.3",
+    "api-skeletons/zf-oauth2-doctrine"  : "1.1.1",
     "hounddog/doctrine-data-fixture-module": "0.0.4"
   },
   "require-dev" : {
