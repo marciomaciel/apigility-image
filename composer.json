@@ -1,5 +1,5 @@
 {
-  "name" : "aqilixapi/image",
+  "name" : "marciomaciel/apigilityimage",
   "description" : "Apigility Module For Handling Image",
   "license"  : "BSD-3-Clause",
   "keywords" : [ "framework", "zf2", "api", "apigility", "image" ],
